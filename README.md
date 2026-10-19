@@ -1,2 +1,5 @@
-# HalfLifeWeek2
-Repository for my week 2 project
+I made a custom Pc case, because it is something that I have been wanting to make for a while, even before I knew what Half Life existed. I'd watch videos by tech youtubers making their own cases and I've really wanted to do that as well.
+The case is made up of several differnt componetns, indicated by the differnt colors in the 3d design. WHenI do actually print them, I will most likely split them into pieces and bind them with superglue for plastic or something similar to that.
+<img width="656" height="589" alt="FinishedProduct" src="https://github.com/user-attachments/assets/147dff3d-01e2-4282-8eb3-ec50dbcedb36" />
+This is the fisnihed product. As you can see, there is a square base, and the back is for the powers supply. The two vertical poles and the 3 horizontal poles that run in between them are for the motherboard. The 3 poles are aligned with the height of the motherboard standoff holes. Coming out of one of the poles is the PCIe slot for the gpu.
+<img width="954" height="126" alt="BOMWeek2" src="https://github.com/user-attachments/assets/1bbe4d33-9bc8-4985-9fe1-aedc3223f4f6" />
